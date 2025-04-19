@@ -1,12 +1,12 @@
 ## Welcome to JaeJeong's Github 👋
 
-- 경제금융학부 전공
+# 🌱경제금융학부 전공
   - 계량경제학을 좋아해요~
-- 한양경제학회
+# 한양경제학회
   - R 로 'VSL(통계적 생명가치)를 활용한 사회적 거리두기의 편익과 비용' 연구
   - 2SLS 도구변수법으로 내생성 문제를 해결하며 데이터 분석 진행
-- 사기업 재무팀 (자금팀) 근무
-- 현재🌱 : FrontEnd(Javascript, vue.js, html etc) & BackEnd(Java) 배우는 중
+# 👔사기업 재무팀 (자금팀) 근무(2024)
+# 현재💻 : FrontEnd(Javascript, vue.js, html etc) & BackEnd(Java) 배우는 중
 
 <!--
 **Jaejeong-Lee/Jaejeong-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
