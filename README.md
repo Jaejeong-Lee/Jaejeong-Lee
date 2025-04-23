@@ -6,7 +6,7 @@
   - FrontEnd(Javascript, vue.js, html etc)
   - BackEnd(Java) 배우는 중
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejae938@gmail.com)](https://solved.ac/leejae938@gmail.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejae98)](https://solved.ac/leejae98/)
 
 ### 한양경제학회
   - R 로 'VSL(통계적 생명가치)를 활용한 사회적 거리두기의 편익과 비용' 연구
