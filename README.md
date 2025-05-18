@@ -11,7 +11,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejae98)](https://solved.ac/leejae98/)
 
 
-### 프로젝트
+### 🎈 프로젝트
   - (Front-End) HTML5, CSS3, JavaScript를 활용한 가계부 만들기 프로젝트
   - https://github.com/Jaejeong-Lee/KB-Vudget
 
