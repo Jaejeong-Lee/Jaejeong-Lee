@@ -15,7 +15,8 @@
 ### 🎈 프로젝트
   - (Front-End) HTML5, CSS3, JavaScript를 활용한 가계부 만들기 프로젝트
     https://github.com/Jaejeong-Lee/KB-Vudget
-
+  - (fullstack) Trippy, 편리한 여행 경비 관리를 위한 여행 전자지갑 서비스
+    https://github.com/Team-Jemini
 
 ### 👔 사기업 재무팀(자금팀) 근무(2024)
 
